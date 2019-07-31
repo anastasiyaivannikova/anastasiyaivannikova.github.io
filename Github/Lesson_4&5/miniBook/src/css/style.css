@@ -1,0 +1,55 @@
+body
+{
+	box-sizing: border-box;
+	margin: 0 auto;
+	padding: 0;
+	background: #F5DEB3;
+	width: 1170px;
+
+}
+
+#tais
+{
+	text-align: center;
+	color: green;
+	font-size: 50px;
+}
+
+.up
+{
+	text-decoration: none;
+	color: #000;
+}
+
+.content a
+{
+	font-size: 30px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #000;
+}
+
+.title
+{
+	text-align: center;
+}
+
+#block-1 p
+{
+	font-weight: bold;
+}
+
+#block-2 p
+{
+	font-style: italic;
+}
+
+#block-3 p
+{
+	text-decoration: line-through;
+}
+
+#block-4 p
+{
+	text-decoration: underline;
+}

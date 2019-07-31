@@ -1,0 +1,123 @@
+*
+{
+	box-sizing: border-box;
+}
+
+body
+{
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5;
+	color: #333;
+}
+
+.section
+{
+	padding: 30px 10%;
+}
+
+.title-header
+{
+	margin-top: 80px;
+	text-align: center;
+	font-size: 24px;
+}
+
+.title-header span
+{
+	display: block;
+	font-weight: 300;
+}
+
+.title-header strong
+{
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.main
+{
+	margin-top: 80px;
+	text-align: center;
+}
+
+.video, .form
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.form
+{
+	border: 5px solid #3c3cdd;
+	padding: 20px;
+	text-align: center;
+	margin-left: 30px;
+}
+
+.form input
+{
+	width: 300px;
+	display: block;
+	padding: 17px;
+	border: 1px solid #333;
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+.form p
+{
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 30px;
+}
+
+.btn
+{
+	border: none;
+	width: 300px;
+	height: 65px;
+	background: #3c3cdd;
+	color: #fff;
+	font-size: 18px;
+	display: block;
+	margin: 11px auto;
+}
+
+.col
+{
+	display: inline-block;
+	text-align: center;
+	margin: 80px 70px;
+}
+
+.col p
+{
+	font-size: 16px;
+	margin-top: 20px;
+	font-weight: 900;
+}
+
+.feature-header
+{
+	text-transform: uppercase;
+	font-weight: 900;
+	text-align: center;
+	font-size: 24px;
+}
+
+.feature
+{
+	margin-top: 60px auto;
+	text-align: center;
+}
+
+.photo
+{
+	text-align: center;
+	margin: 70px auto;
+}
+
+.photo img
+{
+	margin: 16px 13px;
+} 
