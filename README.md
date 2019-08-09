@@ -13,3 +13,5 @@
 
 [Урок 10](anastasiyaivannikova.github.io/Github/Lesson_10/less/ "Папки css и less") - знакомство с less (надеюсь удачное)
 
+[Урок 13](https://github.com/anastasiyaivannikova/anastasiyaivannikova.github.io/tree/master/Github/Lesson_13 "") - адаптивный дизайн, Pixel Perfect
+
