@@ -13,7 +13,7 @@
 
 [Урок 10](anastasiyaivannikova.github.io/Github/Lesson_10/less/ "Папки css и less") - знакомство с less (надеюсь удачное)
 
-[Урок 13](anastasiyaivannikova.github.io/Github/Lesson_13/src/ "") - адаптивный дизайн, Pixel Perfect
+[Урок 13](anastasiyaivannikova.github.io/Github/Lesson_13/src/ "") - адаптивный дизайн, Pixel Perfect 
 
 [Урок 14](anastasiyaivannikova.github.io/Github/Lesson_14/src/ "") - верстка шапки сайта
     
