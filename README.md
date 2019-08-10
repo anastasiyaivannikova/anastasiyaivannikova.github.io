@@ -16,4 +16,6 @@
 [Урок 13](anastasiyaivannikova.github.io/Github/Lesson_13/src/ "Адаптивный дизайн") - адаптивный дизайн, Pixel Perfect 
 
 [Урок 14](anastasiyaivannikova.github.io/Github/Lesson_14/src/ "Верстка шапки") - верстка шапки сайта
+
+[Урок 15](anastasiyaivannikova.github.io/Github/Lesson_15/АРХИВ С ДЗ (14 УРОК)/fonts-viewer/ "Подключение шрифтов") - Подключение шрифтов
     
