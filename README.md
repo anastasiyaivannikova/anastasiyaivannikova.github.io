@@ -17,5 +17,5 @@
 
 [Урок 14](anastasiyaivannikova.github.io/Github/Lesson_14/src/ "Верстка шапки") - верстка шапки сайта
 
-[Урок 15](anastasiyaivannikova.github.io/Github/Lesson_15/АРХИВ С ДЗ (14 УРОК)/fonts-viewer/ "Подключение шрифтов") - Подключение шрифтов
+[Урок 15](anastasiyaivannikova.github.io/Github/Lesson_15/ "Подключение шрифтов") - Подключение шрифтов
     
