@@ -18,4 +18,6 @@
 [Урок 14](anastasiyaivannikova.github.io/Github/Lesson_14/src/ "Верстка шапки") - верстка шапки сайта
 
 [Урок 15](anastasiyaivannikova.github.io/Github/Lesson_15/ "Подключение шрифтов") - Подключение шрифтов
+
+[Урок 16](anastasiyaivannikova.github.io/Github/Lesson_16/src/ "Верстка первого блока") - Верстка первого блока
     
